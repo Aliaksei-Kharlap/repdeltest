@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-console-del2",
+  "version": "0.0.0",
+  "description": "NodejsConsoleDel2",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
